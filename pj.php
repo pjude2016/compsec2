@@ -1,1 +1,1 @@
-<?php echo file_get_contents("../../s3cr37.pwd"); ?>
+../../s3cr37.pwd
